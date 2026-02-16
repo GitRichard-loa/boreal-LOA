@@ -1,0 +1,22 @@
+[project]
+name = "boreal_LOA"
+version = "0.5.0"
+authors = [{name = "Yuyang Chang", email = "yuyang.chang@univ-lille.fr"}]
+description = "Python package of the Basic algOrithm for REtrieval of Aerosol with Lidar - an algorithm to retrieve aerosol optical and microphysical properties from lidar measurements"
+readme = "README.md"
+dynamic = ["dependencies"]
+license = "LicenseRef-BSD-3-Clause-with-Citation-Requirement"
+license-files = ["LICENSE.txt"]
+
+[build-system]
+requires = [
+  "setuptools >= 77.0.3"
+]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.dynamic]
+dependencies = {file = ["requirements.txt"]}
+
+#[tool.setuptools.packages.find]
+#where = ["boreal"]
+

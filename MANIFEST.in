@@ -1,0 +1,2 @@
+recursive-include boreal *.npy
+include boreal/run_example/reference_output/*

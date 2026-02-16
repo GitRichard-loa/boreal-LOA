@@ -1,0 +1,7 @@
+[metadata]
+name = boreal
+version = __version__
+
+[options]
+packages = find:
+include_package_data = True

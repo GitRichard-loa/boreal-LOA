@@ -15,7 +15,7 @@ advancement of scientific research and the acknowledgment of the efforts investe
 resources for the community.
 
 ## Citation
-If you use this software in your work, please cite the software's **DOI**, as well as the following papers:  
+If you use this software in your work, please cite the software's **DOI**: <doi.org/10.5281/zenodo.18664803>, as well as the following papers:  
 > * Chang, Y., Hu, Q., Goloub, P., Veselovskii, I., and Podvin, T.: Retrieval of Aerosol Microphysical Properties from Multi-Wavelength Mie–Raman Lidar Using Maximum Likelihood Estimation: Algorithm, Performance, and Application, Remote Sens., 14, 6208, https://doi.org/10.3390/rs14246208, 2022.  
 > * Chang, Y., Hu, Q., Goloub, P., Podvin, T., Veselovskii, I., Ducos, F., Dubois, G., Saito, M., Lopatin, A., Dubovik, O., and Chen, C.: Retrieval of microphysical properties of dust aerosols from extinction, backscattering and depolarization lidar measurements using various particle scattering models, Atmos. Chem. Phys., 25, 6787–6821, https://doi.org/10.5194/acp-25-6787-2025, 2025.
 

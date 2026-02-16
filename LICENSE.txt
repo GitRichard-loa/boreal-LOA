@@ -20,11 +20,9 @@ modification, are permitted provided that the following conditions are met:
 4. Academic Citation Requirement.
    Any published work, presentation, article, report, thesis, or derivative
    work that makes use of this software, in whole or in part, must provide
-   appropriate academic citation to the authors. The required citation is:
-
-       <“see CITATION.cff”>
-
-   Citation must appear in the bibliography or equivalent reference section of
+   appropriate academic citations to the authors. The required citations are 
+   listed in the Section Citation of the README.md file.
+   Citations must appear in the bibliography or equivalent reference section of
    the published work. If the software is used within a larger system, toolkit,
    or workflow, the citation requirement still applies if this software
    contributed in any measurable or identifiable way.
